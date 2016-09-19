@@ -19,7 +19,7 @@ module.exports = {
 
     emojis: {
       type: 'json'
-      // collection: 'Emoji',
+      ////// collection: 'Emoji',
       // via: 'owner'
     }
 
