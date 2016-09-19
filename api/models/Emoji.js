@@ -18,7 +18,15 @@ module.exports = {
     owner: {
       type: 'string'
       // model: 'User'
-    }
+    },
+    
+      // every Emoji belogs to a particular user
+	   //owner: {
+		// type:'json',
+		//  model: "User",
+	 //  via: "owner"
+	 //}
+    
 
   }
 };
